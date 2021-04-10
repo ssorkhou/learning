@@ -3,6 +3,5 @@ pandas
 matplotlib
 seaborn
 scipy
-itertools
 sklearn
 tensorflow
